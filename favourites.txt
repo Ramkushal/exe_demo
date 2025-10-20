@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 Apple
 bannan
 orange
-=======
 Salaar 
 bujjigadu
 varsham
 batman
->>>>>>> movies
